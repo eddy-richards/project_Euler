@@ -1,5 +1,3 @@
-// Sum of all the multiples of 3 or 5 below 1000.
-
 function sumOfNumbers(value){
   value = value - 1
   if(value == 0){
