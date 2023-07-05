@@ -16,4 +16,5 @@ sumOfEvenFibonacciNumbers = (range) => {
   console.log(sumOfEvenFibNum)
 }
 
-sumOfEvenFibonacciNumbers(4000000)
+console.log('test')
+sumOfEvenFibonacciNumbers(400000)
